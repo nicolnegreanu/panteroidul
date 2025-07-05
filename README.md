@@ -1,2 +1,1 @@
 # panteroidul
-panteroidul polaroid
